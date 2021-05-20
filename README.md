@@ -14,11 +14,24 @@ Et une dernière page comprenant des informations afin de me contacter pour un �
 
 - [x] Page "à propos"
 - [x] Page "contact"
-- [ ] Page "projet"
+- [x] Page "projet"
+- [x] Page d'exemple pour les projets
+- [ ] Rendre responsive
+
+
+## Bonus
+
+Ayant un peu de temps en plus, j'ai décidé de remplir les pages de chaque projet, puisque je compte m'en servir à l'avenir.
+
+Bien évidemment, une fois le temps impartie terminé pour le contest je ne le modifierais uniquement en local, sans le push sur github, j'attendrais que l'année et la note donnée pour tout push sur github. 
+
 - [ ] Page pour chaque projet réalisé.
     - [ ] Page labyrinthe PHP
     - [ ] Page CV HTML
     - [ ] Page BDD HTML
     - [ ] Page Game of life JAVA
+    - [ ] Page Shifumy PYTHON
+- [ ] Améliorer sérieusement le CSS (peut-être voir pour du JS??)
+
 
 

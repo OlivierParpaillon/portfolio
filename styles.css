@@ -205,8 +205,8 @@ img {
 }
 
 .buttonav:hover {
-    border-left: 3px solid #b6cdef;
-    border-right: 3px solid #6098FF;
+    border-left: 1px solid #b6cdef;
+    border-right: 1px solid #6098FF;
 }
 
 

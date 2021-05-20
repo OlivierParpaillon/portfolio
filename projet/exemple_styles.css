@@ -1,0 +1,105 @@
+body {
+    background: url(../img/test.jpg);
+    font-family: 'Roboto', sans-serif;
+    color: cornsilk;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+/* Barre de navigation */
+
+.navbar {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    text-align: center;
+    margin: 10px;
+    margin-bottom: 20px;
+    font-size: 22px;
+    justify-self: center;
+    margin-top: 30px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: cornsilk;
+}
+
+
+/* Page de test */
+
+.bloc {
+    justify-content: center;
+    text-align: center;
+    width: 50%;
+    margin-left: 455px;
+}
+
+.git a {
+    text-decoration: none;
+    color: cornsilk;
+}
+
+
+/* effet au survol navbar*/
+
+.buttonav {
+    padding: 15px 100px;
+    margin: 10px 4px;
+    color: #ffffff;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    position: relative;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.buttonav {
+    border: 3px solid transparent;
+    -webkit-transition: all 0.4s cubic-bezier(.5, .24, 0, 1);
+    transition: all 0.4s cubic-bezier(.5, .24, 0, 1);
+}
+
+.buttonav::before {
+    content: '';
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    z-index: -1;
+    width: 0%;
+    height: 1px;
+    background: #003177;
+    box-shadow: inset 0px 0px 0px #b6cdef;
+    display: block;
+    -webkit-transition: all 0.4s cubic-bezier(.5, .24, 0, 1);
+    transition: all 0.4s cubic-bezier(.5, .24, 0, 1)
+}
+
+.buttonav:hover::before {
+    width: 100%;
+}
+
+.buttonav::after {
+    content: '';
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    z-index: -1;
+    width: 0%;
+    height: 1px;
+    background: #a9c1e8;
+    -webkit-transition: all 0.4s cubic-bezier(.7, .25, 0, 1);
+    transition: all 0.4s cubic-bezier(.7, .25, 0, 1)
+}
+
+.buttonav:hover::after {
+    width: 100%;
+}
+
+.buttonav:hover {
+    border-left: 1px solid #b6cdef;
+    border-right: 1px solid #6098FF;
+}
