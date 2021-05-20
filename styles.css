@@ -88,3 +88,35 @@ h1 {
 .form {
     flex-direction: row;
 }
+
+.contact {
+    text-align: center;
+    margin-top: 50px;
+    color: cornsilk;
+}
+
+.contact-flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact-flex p:first-child {
+    flex: 0 0 10%;
+}
+
+.contact-flex p:last-child {
+    flex: 0 0 20%;
+}
+
+.social {
+    display: flex;
+    justify-content: space-around;
+    margin: 10px auto 0px auto;
+}
+
+.social img {
+    width: 40px;
+    height: 40px;
+    justify-content: center;
+}
