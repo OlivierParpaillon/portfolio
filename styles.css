@@ -73,4 +73,18 @@ h1 {
     text-align: left;
 }
 
-.php span {}
+.pres {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: cornsilk;
+    margin-top: 50px;
+}
+
+.me {
+    flex-direction: row;
+}
+
+.form {
+    flex-direction: row;
+}
