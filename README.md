@@ -13,7 +13,9 @@ Et une dernière page comprenant des informations afin de me contacter pour un �
 ## to do list
 
 [x] Page "à propos"
+
 [ ] Page "contact"
+
 [ ] Page "projet"
 
 [ ] Page pour chaque projet réalisé.
