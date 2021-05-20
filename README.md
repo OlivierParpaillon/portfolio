@@ -16,7 +16,6 @@ Et une derni√®re page comprenant des informations afin de me contacter pour un √
 - [x] Page "contact"
 - [x] Page "projet"
 - [x] Page d'exemple pour les projets
-- [ ] Rendre responsive
 
 
 ## Bonus

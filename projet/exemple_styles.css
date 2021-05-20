@@ -42,6 +42,10 @@ h1 {
     color: cornsilk;
 }
 
+.php img {
+    max-width: 100%;
+}
+
 
 /* effet au survol navbar*/
 
