@@ -16,7 +16,6 @@ Et une dernière page comprenant des informations afin de me contacter pour un �
 - [x] Page "contact"
 - [ ] Page "projet"
 
-
 - [ ] Page pour chaque projet réalisé.
     - [ ] Page labyrinthe PHP
     - [ ] Page CV HTML
