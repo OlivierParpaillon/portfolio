@@ -64,15 +64,26 @@ h1 {
     filter: invert(0);
 }
 
-.php .html {
-    grid-column: 1/-1;
-    margin: 0px;
-}
-
 .c1 {
     color: rgb(8, 221, 90);
-    text-align: left;
 }
+
+.projet {
+    display: flex;
+}
+
+.cv {
+    flex-direction: column;
+    width: 50%;
+}
+
+.bdd {
+    flex-direction: column;
+    width: 50%;
+}
+
+
+/* Page a propos */
 
 .pres {
     display: flex;
@@ -89,6 +100,9 @@ h1 {
 .form {
     flex-direction: row;
 }
+
+
+/* Page contact */
 
 .contact {
     text-align: center;
