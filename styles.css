@@ -1,11 +1,16 @@
 body {
     background-color: #4b4a4a;
     font-family: 'Roboto', sans-serif;
+    color: cornsilk;
 }
 
-h1 {
+h1,
+h2 {
     text-align: center;
 }
+
+
+/* Barre de navigation */
 
 .navbar {
     display: grid;
@@ -23,18 +28,17 @@ h1 {
     color: cornsilk;
 }
 
+
+/* Page projet  */
+
 .conteneur {
-    display: flex;
-    flex-wrap: wrap;
+    display: block;
+    flex: wrap;
     position: relative;
 }
 
 .conteneur a {
     text-decoration: none;
-}
-
-.conteneur img {
-    width: 50%;
 }
 
 .a-img-txt {
@@ -46,26 +50,24 @@ h1 {
     grid-row: 1/2;
 }
 
-.a-txt {
-    font-size: 25px;
+.c1 {
+    color: #C42626;
+    text-decoration: none;
+}
+
+.lab {
     display: flex;
     justify-content: center;
-    align-items: center;
-    opacity: 0;
-    filter: invert(0);
-    transition: opacity .8s;
 }
 
-.a-txt:hover {
-    opacity: 1;
+.shifumi {
+    display: flex;
+    justify-content: center;
 }
 
-.a-img-txt:hover .a-img {
-    filter: invert(0);
-}
-
-.c1 {
-    color: rgb(8, 221, 90);
+.gol {
+    display: flex;
+    justify-content: center;
 }
 
 .projet {
@@ -82,12 +84,21 @@ h1 {
     width: 50%;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 
 /* Page a propos */
 
 .pres {
     display: flex;
     justify-content: center;
+    justify-content: space-between;
     text-align: center;
     color: cornsilk;
     margin-top: 50px;
@@ -134,4 +145,55 @@ h1 {
     width: 40px;
     height: 40px;
     justify-content: center;
+}
+
+
+/* effet au survol */
+
+a {
+    outline: none;
+    text-decoration: none;
+    padding: 2px 1px 0;
+}
+
+a:link {
+    color: #C42626;
+}
+
+a:visited {
+    color: #C42626;
+}
+
+a:focus {
+    border-bottom: 1px solid;
+    background: #C42626;
+}
+
+a:hover {
+    border-bottom: 1px solid;
+    background: #C42626;
+    color: #748cbe;
+}
+
+a:active {
+    background: #C42626;
+    color: #748cbe;
+}
+
+.a-txt {
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    filter: invert(0);
+    transition: opacity .8s;
+}
+
+.a-txt:hover {
+    opacity: 1;
+}
+
+.a-img-txt:hover .a-img {
+    filter: invert(0);
 }
