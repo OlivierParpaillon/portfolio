@@ -2,6 +2,7 @@ body {
     background: url(img/test.jpg);
     font-family: 'Roboto', sans-serif;
     color: cornsilk;
+    animation: myAnim 5s ease 0s 1 normal forwards;
 }
 
 h1,
@@ -234,4 +235,16 @@ a:visited {
 .conteneur a:active {
     background: #3b5998;
     color: #748cbe;
+}
+
+
+/* keyframe */
+
+@keyframes myAnim {
+    0% {
+        background-position: 50% 0%;
+    }
+    100% {
+        background-position: 50% 100%;
+    }
 }
