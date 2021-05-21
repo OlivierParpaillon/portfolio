@@ -2,7 +2,7 @@ body {
     background: url(../img/test.jpg);
     font-family: 'Roboto', sans-serif;
     color: cornsilk;
-    animation: myAnim 5s ease 0s 1 normal forwards;
+    animation: myAnim 10s ease 0s infinite normal forwards;
 }
 
 h1 {
