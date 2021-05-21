@@ -4,7 +4,7 @@ Travail réalisé par PARPAILLON Olivier
 
 ## Présentation
 
-Bienvenue sur mon portfolio, vous y retrouverez un template afin d'y afficher vos projets personnel ou scolaire dessus.
+Bienvenue sur mon portfolio, vous y retrouverez un template afin d'y afficher vos projets personnel ou scolaire dessus. J'ai décidé de présenter le template avec d'abord un titre représentant le langage ou la technologie utilisé, puis de présenter les projets fait avec une image au choix et le nom du projet qui s'affiche par dessus quand on passe la souris par dessus.
 
 Vous retrouverez aussi sur le site une page concernant mon parcours scolaire et les stages que j'ai pu réalisé.
 
