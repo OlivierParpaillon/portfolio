@@ -33,7 +33,6 @@ h2 {
 
 .conteneur {
     display: block;
-    flex: wrap;
     position: relative;
 }
 
@@ -55,33 +54,9 @@ h2 {
     text-decoration: none;
 }
 
-.lab {
-    display: flex;
-    justify-content: center;
-}
-
-.shifumi {
-    display: flex;
-    justify-content: center;
-}
-
-.gol {
-    display: flex;
-    justify-content: center;
-}
-
 .projet {
     display: flex;
-}
-
-.cv {
-    flex-direction: column;
-    width: 50%;
-}
-
-.bdd {
-    flex-direction: column;
-    width: 50%;
+    justify-content: center;
 }
 
 img {
