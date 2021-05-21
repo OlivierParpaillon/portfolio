@@ -30,8 +30,6 @@ Bien évidemment, une fois le temps impartie terminé pour le contest je ne le m
     - [x] Page labyrinthe PHP
     - [ ] Page CV HTML
     - [ ] Page template HTML pour afficher une BDD
-    - [ ] Page Game of life JAVA
-    - [ ] Page Shifumy PYTHON
 - [ ] Améliorer sérieusement le CSS (peut-être voir pour du JS??)
 
 
