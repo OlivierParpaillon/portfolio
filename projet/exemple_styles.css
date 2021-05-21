@@ -10,6 +10,15 @@ h1 {
 }
 
 
+/* Ligne séparatrice hr */
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(255, 248, 220, 0), rgba(255, 248, 220, 0.75), rgba(255, 248, 220, 0));
+}
+
+
 /* Barre de navigation */
 
 .navbar {
