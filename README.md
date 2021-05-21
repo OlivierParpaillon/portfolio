@@ -20,7 +20,7 @@ Et une dernière page comprenant des informations afin de me contacter pour un �
 
 ## After contest
 
-Puisque je compte me servir du portfolio à l'avenir (peut-être plus pour y mettre des projets OPS que dev, sachant que je compte m'orienter OPS), vous trouverez dans les fichiers des pages HTML complétés à propos de mes projets réalisés, elles ne sont évidemment link nul part dans mes page index ou projet ou autres, elles sont uniquement accessible en cliquant dessus depuis le dossier projet. Il y'a quand même la page [exemples.html](projet/exemple.html) présente dans le dossier projet, qui elle est accessible depuis la page index, et qui me sert de template afin de remplir les autres pages, comme par exemple [projet_lab.html](projet/projet_lab.html) qui parle du projet jeu du labyrinthe fait en PHP
+Puisque je compte me servir du portfolio à l'avenir (peut-être plus pour y mettre des projets OPS que dev, sachant que je compte m'orienter OPS), vous trouverez dans les fichiers des pages HTML complétes à propos de mes projets réalisés, elles ne sont évidemment link nul part dans mes page index ou projet ou autres, elles sont uniquement accessible en cliquant dessus depuis le dossier projet. Il y'a quand même la page [exemples.html](projet/exemple.html) présente dans le dossier projet, qui elle est accessible depuis la page index, et qui me sert de template afin de remplir les autres pages, comme par exemple [projet_lab.html](projet/projet_lab.html) qui parle du projet jeu du labyrinthe fait en PHP
 
 Bien évidemment, une fois le temps impartie terminé pour le contest je ne le modifierais uniquement en local, sans le push sur github, j'attendrais que l'année soit finie et la note donnée pour tout push sur github. 
 
