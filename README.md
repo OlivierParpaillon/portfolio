@@ -4,7 +4,7 @@ Travail réalisé par PARPAILLON Olivier
 
 ## Présentation
 
-Bienvenue sur mon portfolio, vous y retrouverez tout les projets que j'ai pu réaliser au cours de mon année scolaire chez Campus Academy.
+Bienvenue sur mon portfolio, vous y retrouverez un template afin d'y afficher vos projets personnel ou scolaire dessus.
 
 Vous retrouverez aussi sur le site une page concernant mon parcours scolaire et les stages que j'ai pu réalisé.
 
@@ -24,10 +24,12 @@ Puisque je compte me servir du portfolio à l'avenir, vous trouverez dans les fi
 
 Bien évidemment, une fois le temps impartie terminé pour le contest je ne le modifierais uniquement en local, sans le push sur github, j'attendrais que l'année soit finie et la note donnée pour tout push sur github. 
 
+## To do list after contest
+
 - [ ] Page pour chaque projet réalisé.
     - [x] Page labyrinthe PHP
     - [ ] Page CV HTML
-    - [ ] Page BDD HTML
+    - [ ] Page template HTML pour afficher une BDD
     - [ ] Page Game of life JAVA
     - [ ] Page Shifumy PYTHON
 - [ ] Améliorer sérieusement le CSS (peut-être voir pour du JS??)
